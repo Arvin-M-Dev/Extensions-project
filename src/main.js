@@ -30,7 +30,7 @@ toggleThemeBtn.addEventListener("click", (e) => {
 
 async function loadExtensions() {
   try {
-    const response = await fetch("./data.json");
+    const response = await fetch("/data.json");
      
     if(!response.ok){
       throw new Error("Fetch Error :(")
