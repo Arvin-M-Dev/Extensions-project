@@ -55,7 +55,7 @@ A modern and fully interactive browser extensions dashboard
 ### 🙏 Acknowledgments
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
-- thanks to Grok (xAI) for guidance and mentoring throughout the project
+- thanks to Grok (xAI) for mentoring throughout the project
 
 ---
 
