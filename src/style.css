@@ -493,12 +493,6 @@ body {
   gap: 1.5rem;
 }
 
-.extension-card__logo {
-}
-
-.extension-card__texts {
-}
-
 .extension-card__name {
   font-family: "Noto Bold";
   font-size: 1.8rem;
@@ -744,11 +738,9 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  *,
-  *::before,
-  *::after,
+  .btn,
   button {
-    cursor: default !important;
+    cursor: default;
   }
   .filters__title {
     font-size: 2.4rem;

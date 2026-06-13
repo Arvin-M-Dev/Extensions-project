@@ -6,7 +6,7 @@ let extensionsContainer = $.querySelector(".extensions__list");
 const filterBtns = $.querySelectorAll(".filter__btn");
 
 //  Icons
-const sunIcon = `<svg id="moon-icon"><use xlink:href="#sun"></use></svg>`;
+const sunIcon = `<svg id="sun-icon"><use xlink:href="#sun"></use></svg>`;
 const moonIcon = `<svg id="moon-icon"><use xlink:href="#moon"></use></svg>`;
 
 // Global State
@@ -169,7 +169,8 @@ function toggleExtensionHandler(e) {
   const extension = allExtensions.find(
     (item) => item.name === extensionName,
   );
-  
+
+  if (!extension) return
   extension.isActive = !extension.isActive; 
 }
 
