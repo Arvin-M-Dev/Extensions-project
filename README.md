@@ -47,13 +47,13 @@ A modern and fully interactive browser extensions dashboard
 ### 🎯 Key Implementation
 
 **State Management:**
-- Dynamic rendering از JSON data
-- localStorage برای persistence
-- Event Delegation برای dynamic elements
+- Dynamic rendering from JSON data
+- localStorage for persistence
+- Event Delegation for dynamic elements
 
 **Theme Switching:**
 - Light/Dark mode toggle
-- CSS Custom Properties برای theming
+- CSS Custom Properties for theming
 - User preference preservation
 
 **Filtering System:**
