@@ -1,7 +1,7 @@
-# Browser Extensions Manager
+# 🔌 Browser Extensions Manager
 
 <div align="center">
-  
+
 ![Project Banner](public/assets/images/desktop-design-light.jpg)
 
 A modern and fully interactive browser extensions dashboard
@@ -30,11 +30,11 @@ A modern and fully interactive browser extensions dashboard
 - ✅ Dynamic Data Rendering from JSON
 - ✅ Toggle Active/Inactive status
 - ✅ Remove Extensions
-- ✅ State Persistence using localStorage (changes survive refresh)
+- ✅ State Persistence using localStorage
 
 ---
 
-### 🛠️ Built With
+### 🛠️ Tech Stack
 
 - HTML5 Semantic
 - CSS3 (Custom Properties, BEM Methodology, Flexbox & Grid)
@@ -44,18 +44,29 @@ A modern and fully interactive browser extensions dashboard
 
 ---
 
-### 📚 What I Learned
+### 🎯 Key Implementation
 
-- Managing complex state in vanilla JavaScript
-- Proper use of Event Delegation for dynamic elements
-- Implementing robust filtering and localStorage persistence
+**State Management:**
+- Dynamic rendering از JSON data
+- localStorage برای persistence
+- Event Delegation برای dynamic elements
+
+**Theme Switching:**
+- Light/Dark mode toggle
+- CSS Custom Properties برای theming
+- User preference preservation
+
+**Filtering System:**
+- All / Active / Inactive tabs
+- Real-time filtering
+- Dynamic list updates
 
 ---
 
-### 🙏 Acknowledgments
+### 🙏 Credits
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
-- thanks to Grok (xAI) for mentoring throughout the project
+- Design and specifications from Frontend Mentor
 
 ---
 
