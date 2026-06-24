@@ -1,11 +1,11 @@
-# 🔌 مدیریت افزونه‌های مرورگر
+# 🔌Browser Extension Manager
 
 <div align="center">
 
 ![Project Banner](public/assets/images/desktop-design-light.jpg)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-مشاهده%20سایت-brightgreen?style=for-the-badge)](https://arvin-m-dev.github.io/Extensions-project/)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-چالش-blue?style=for-the-badge)](https://www.frontendmentor.io)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-challange-blue?style=for-the-badge)](https://www.frontendmentor.io)
 
 </div>
 
